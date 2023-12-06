@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c283a6a-b043-4f87-82b0-d388d176b699" name="Changes" comment="" />
+    <list default="true" id="3c283a6a-b043-4f87-82b0-d388d176b699" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/tg_bot1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tg_bot1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/handlers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/handlers/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/handlers/starts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/starts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/middleware/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/middleware/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/middleware/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/middleware/contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/utils/databaseconnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/databaseconnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/core/utils/statesform.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/statesform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,13 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/angab/GitHub/tg_bot1&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\angab\GitHub\tg_bot1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
