@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c283a6a-b043-4f87-82b0-d388d176b699" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/tg_bot1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tg_bot1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tg_bot1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/handlers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/handlers/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/contacts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/handlers/starts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/starts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/middleware/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/middleware/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/middleware/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/middleware/contacts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/utils/databaseconnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/databaseconnector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/core/utils/statesform.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/statesform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/handlers/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/handlers/starts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/handlers/starts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/middleware/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/middleware/contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/utils/databaseconnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/databaseconnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
