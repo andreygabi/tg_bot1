@@ -36,7 +36,6 @@ async def gotinfo(message: Message, state: FSMContext, request: Request):
 
 
 async def get_deletecontact(message: Message, bot: Bot, state: FSMContext):
-    #DELETE FROM contacts_data_table WHERE (user_id = 1322264290) AND (contact_tag = '1234')
     await message.answer(f'input deleted one`s tag')
     await state.set_state(StatqForm.DELETENAME)
 
