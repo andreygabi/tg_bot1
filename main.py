@@ -13,7 +13,6 @@ from core.middleware.contacts import RequestSession
 from core.utils.databaseconnector import Request
 from core.utils.statesform import StatqForm
 
-#TAKENTOKEN = "6702120663:AAHmT9ZuSA-mluoTmAUWNiXgnQpvv__LaWc"
 BOTNAME = '@cringycheckersbot'
 dp = Dispatcher()
 bot = Bot(token = os.getenv("takentoken"))
